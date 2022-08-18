@@ -45,9 +45,13 @@
         }
         .aside {
             padding: 10px 20px;
+            
+            
+            
         }
         .post {
             padding-bottom: 20px;
+            
         }
        h1{
          text-transform: uppercase;        
@@ -73,48 +77,14 @@
        footer{
         padding-left: 20px;
         padding-right: 20px;
+        font-size: 13px;
        }
-       .box { 
-        background: rgb(212, 193, 193);
-        padding-top: 5px;
-        padding-bottom: 5px;
-        padding-left: 20px;
-        padding-right: 20px;
-        margin-bottom: 20px;
-       }
-       .box2{
-        background: rgb(212, 193, 193);
-        padding-top: 5px;
-        padding-bottom: 5px;
-        padding-left: 20px;
-        padding-right: 20px;
-        margin-bottom: 20px;
 
-       }
-       .box3{
-        background: rgb(212, 193, 193) ;
-        padding-top: 5px;
-        padding-bottom: 5px;
-        padding-left: 20px;
-        padding-right: 20px;
-        margin-bottom: 20px;
-       }
-       .box4{
-        background: rgb(212, 193, 193) ;
-        padding-top: 5px;
-        padding-bottom: 5px;
-        padding-left: 20px;
-        padding-right: 20px;
-        margin-bottom: 20px;
-       }
-       .box5{
-        background: rgb(212, 193, 193) ;
-        padding-top: 5px;
-        padding-bottom: 5px;
-        padding-left: 20px;
-        padding-right: 20px;
-        margin-bottom: 20px;
-       }
-       
+      .item{
+        background-color: #D6CADD;
+        padding: 5px 20px;
+        margin-bottom: 50px;
+      }
+      
        
        
